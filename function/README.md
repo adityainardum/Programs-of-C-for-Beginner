@@ -17,6 +17,8 @@
 7. Sum of  n Natural Number.
 
 8. check Pythagorean Triplet. 
+
+9. Pointers.
     
     
 

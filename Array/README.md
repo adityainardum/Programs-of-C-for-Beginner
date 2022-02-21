@@ -16,6 +16,11 @@
 
 7. Max Till i -  Given an array a[] of size n. For every i from 0 to n-1 . Output max (a[0],a[1],...,a[i]).
 
+8. Sum of All Subarrays - Given an array a[] of size n.  Output sum of each  subarray of the given array.
+
+9.  Check palindrome
+
+10. Largest word in a sentence
 
 
 ## Authors
