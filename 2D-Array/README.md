@@ -13,10 +13,7 @@
 
  -------------------
 
- 4. Matrix Transpose
-
- The Transpose of a matrix is the matrix flipped over it's main 
- diagonal , switching the row and column indices of the matrix.  
+ 4. Matrix Transpose -The Transpose of a matrix is the matrix flipped over it's main diagonal , switching the row and column indices of the matrix.  
 
  5. Matrix Multiplication
 
